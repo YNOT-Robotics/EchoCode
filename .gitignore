@@ -33,5 +33,4 @@
 
 # VEX Build Files
 build/
-vex/
 *.json
