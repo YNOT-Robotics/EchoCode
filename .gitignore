@@ -32,5 +32,6 @@
 *.app
 
 # VEX Build Files
-build/*
-vex/*
+build/
+vex/
+*.json
