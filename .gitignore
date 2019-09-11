@@ -34,3 +34,5 @@
 # VEX Build Files
 build/
 *.json
+*.mk
+*.v5code
