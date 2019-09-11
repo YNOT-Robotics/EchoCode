@@ -35,4 +35,3 @@
 build/
 *.json
 *.mk
-*.v5code
