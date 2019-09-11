@@ -32,6 +32,8 @@ void autonomous( void ) {
   if(choice == 4){
     Echo.blue1();
   }
+
+  choice = 0;
   
   Echo.endAuto();
 }
